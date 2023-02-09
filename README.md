@@ -1,10 +1,10 @@
 # Tugas Pertemuan ke 9
 
-Nama : Selma Ohoira
+Nama    : Selma Ohoira
 
-NIM : 312210727
+NIM         : 312210727
 
-Kelas : TI.22.C9
+Kelas       : TI.22.C9
 
 Mata Kuliah : Bahasa Pemograman
 
@@ -13,6 +13,7 @@ Mata Kuliah : Bahasa Pemograman
 ![Gambar](gambar/1.png)
 
 Masukan syntax berikut:
+
     #Akses pada list
     data = [11,12,13,14,15]
     print ("menampilkan semua list: ", data[0:6])
@@ -38,6 +39,7 @@ Masukan syntax berikut:
     print("══════════════════════════════════════")
 
 Hasil output latihan 4
+
 ![Gambar](gambar/2.png)
 
 # PRAKTIKUM 4
@@ -49,7 +51,8 @@ Dengan hasil outpunya sbb:
 
 ![Gambar](gambar/4.png)
 
-Disini diminta untuk memasukan data sebanyak-banyaknya. Jadi saya akan mencoba memasukan beberapa data diantaranya seperti NAMA, NIM, NILAI TUGAS, NILAI UTS dan NILAI UAS
+Disini diminta untuk memasukan data sebanyak-banyaknya. Jadi saya akan mencoba memasukan beberapa data
+diantaranya seperti NAMA, NIM, NILAI TUGAS, NILAI UTS dan NILAI UAS
 
 Untuk dapat menambahkan data-data tersebut, masukan code seperti ini:
 
